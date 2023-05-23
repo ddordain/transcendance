@@ -29,7 +29,9 @@ make up
 ```
 
 5) Get to the website
+```bash
 In your web browser, go to localhost:3002
+```
 
 # Screenshots
 Below you will find some visual impressions of Transcendance. These screenshots give you a glimpse of what you can expect from the application.
