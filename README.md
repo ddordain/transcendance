@@ -36,3 +36,8 @@ In your web browser, go to localhost:3002
 # Screenshots
 Below you will find some visual impressions of Transcendance. These screenshots give you a glimpse of what you can expect from the application.
 
+## Login Page
+![App Screenshot](/assets/loginpage.png)
+
+## Main Page
+![App Screenshot](/assets/mainpage.png)
