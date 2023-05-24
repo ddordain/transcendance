@@ -41,3 +41,12 @@ Below you will find some visual impressions of Transcendance. These screenshots 
 
 ## Main Page
 ![App Screenshot](/assets/mainpage.png)
+
+## Classic Game
+![App Screenshot](/assets/classic.png)
+
+## Spectator Mode
+![App Screenshot](/assets/spectator.png)
+
+## Champion Game
+![App Screenshot](/assets/champion.png)
